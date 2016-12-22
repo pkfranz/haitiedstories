@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Haiti's Lost Children was a multimedia project funded by the Pulitzer Center on Crisis Reporting in 2010. The project is no longer updated, but the original video stories, photographs, and project foreward have been preserved and published here. Although research and production on this project ended in late 2010, Haiti still struggles with providing basic infrastructure and education services to its citizens.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: pkfranz
 github_username:  pkfranz
 disqus_username:

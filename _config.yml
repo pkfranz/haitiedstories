@@ -40,4 +40,4 @@ sass:
   style: compressed
 
 
-images: '/haitiedstories/assets/images'
+images: 'assets/images'

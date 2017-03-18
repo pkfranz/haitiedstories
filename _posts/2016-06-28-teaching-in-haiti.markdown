@@ -2,7 +2,7 @@
 bg: "rocourt.jpg"
 layout: post
 title:  "A Teacher's Passion for Change"
-crawlertitle: "How to use jekyll"
+crawlertitle: "Teaching in Haiti"
 summary: "Alzire Rocourt's Story"
 date:   September 2010
 categories: posts

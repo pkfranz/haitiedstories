@@ -77,10 +77,48 @@ The Inter-American Development Bank estimates that Haiti will need about $3 bill
 
 “Sixty-five percent of Haitians are under the age of 30,” she said. “We are in danger of losing an entire generation.”
 
+
 ***
+
 
 Haiti's Lost Children was an investigative project funded by the Pulitzer Center on Crisis Reporting in 2010. The project is no longer updated, but the original video stories, photographs, and project foreward have been preserved and published here. Although research and production on this project ended in late 2010, Haiti still struggles with providing basic infrastructure and education services to its citizens.
 
 To learn more about Haiti and get more in-depth coverage, visit the Pulitzer Center's excellent collection on Haiti.
 
 To learn more about the author and producer of haitiedstories.org, visit http://www.paul-franz.com.
+
+
+***
+
+
+
+I first visited Haiti nine months after the January 2010 earthquake. Although the initial shock of the disaster had subsided, the deleterious long-term effects on the Caribbean nation’s development were readily apparent.
+
+The project would not have been possible without the generous support of the Pulitzer Center on Crisis Reporting and the School of Communication at the University of Miami.  haitiedstories.org began as a series of videos submitted as part of Project:Report, a YouTube/Pulitzer Center contest.
+
+Since its launch in 2010, the project was recognized by the Online News Association (ONA) as one of the best online video sites in 2011.
+
+Without these individuals, www.haitiedstories.org could not have existed. With many thanks to:
+
+### LOGISTICS AND FIELD PRODUCTION:
+
+Lara Petusky Coger
+Christian Aramy
+
+### TRANSLATION:
+
+Bob Lemoine
+
+### ASSOCIATE EDITORS:
+
+Candace Barbot
+Rich Beckman
+Yves Colon
+
+### SPECIAL THANKS:
+
+Rafael Achondo
+Un Techo Para Mi Pais
+ProDev Haiti
+Maryse and Daniel Kedar
+The residents of the Canaan tent city
